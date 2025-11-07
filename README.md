@@ -1,3 +1,4 @@
+(fork of https://github.com/Sergeydigl3/zapret-discord-youtube-linux) (SYSTEMD ONLY!)
 # Что это?
 Это адаптер для запуска популрных конфигов обхода замедления ютуба [Zapret Discord Youtube Flowseal](https://github.com/Flowseal/zapret-discord-youtube)
 Был написан за пару вечеров без желания думать. Задача была сделать скрипт Plug-And-Play.
